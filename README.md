@@ -6,6 +6,11 @@
 [image](download.png)
 
 
+## Get the beta now
+# iPhone 5s – iPhone X, iOS 12.3 and up
+
+Get the beta now 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
