@@ -8,9 +8,11 @@
 
 Get the beta now 
 
-
+```yml
 logo: [checkra1n.jpg]
+````
 
+````markdown
 ## Important information
 
 This release is an early beta preview and as such should not be installed on a primary device. We strongly recommend proceeding with caution.
@@ -39,6 +41,7 @@ This beta is only available for macOS. Work is ongoing to support Windows and Li
 
 Package managers
 At the moment, checkra1n only supports installing Cydia. Support for other package managers is coming soon, and will not require a checkra1n update.
+````
 
 ```markdown
 
@@ -88,3 +91,4 @@ A: We need to write a kernel driver to support Windows (which is a very complex 
 
 Q: The checkra1n app doesn't open inside the DMG!
 A: Follow the instructions in the DMG file and drag the app to the Applications folder.
+````
