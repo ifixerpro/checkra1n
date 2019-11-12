@@ -41,6 +41,7 @@ Package managers
 At the moment, checkra1n only supports installing Cydia. Support for other package managers is coming soon, and will not require a checkra1n update.
 
 ```markdown
+
 ## Frequently Asked Questions
 
 Q: What is checkra1n?
