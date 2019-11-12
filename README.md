@@ -3,7 +3,7 @@
 
 
 [Download for macOS](https://checkra.in/assets/downloads/macos/4d63520f02d29eb91046ce0bb0a5849ed5599fc4684038954e18bc9d622febdb/checkra1n%20beta%200.9.dmg)
-[image](/)
+[image](checkra1n/*.png)
 
 
 ### Markdown
