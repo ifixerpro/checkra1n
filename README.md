@@ -8,9 +8,7 @@
 
 Get the beta now 
 
-```yml
-logo: [checkra1n.jpg]
-````
+logo: ![Image](checkra1n.jpg)
 
 ````markdown
 ## Important information
