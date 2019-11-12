@@ -10,7 +10,6 @@ Get the beta now
 
 
 ```markdown
-Syntax highlighted code block
 
 ## Important information
 
