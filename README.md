@@ -1,9 +1,8 @@
 # checkra1n 0.9 beta
 
-![Image](
 
 ## Get the beta now
-# iPhone 5s – iPhone X, iOS 12.3 and up
+### iPhone 5s – iPhone X, iOS 12.3 and up
 
 [Download for macOS](https://checkra.in/assets/downloads/macos/4d63520f02d29eb91046ce0bb0a5849ed5599fc4684038954e18bc9d622febdb/checkra1n%20beta%200.9.dmg)
 
@@ -43,8 +42,6 @@ Package managers
 At the moment, checkra1n only supports installing Cydia. Support for other package managers is coming soon, and will not require a checkra1n update.
 
 ```markdown
-Syntax highlighted code block
-
 ## Frequently Asked Questions
 
 Q: What is checkra1n?
