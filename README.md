@@ -9,7 +9,7 @@
 Get the beta now 
 
 
-```markdown
+logo: [checkra1n.jpg]
 
 ## Important information
 
