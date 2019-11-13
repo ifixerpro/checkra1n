@@ -2,8 +2,6 @@
 ### iPhone 5s – iPhone X, iOS 12.3 and up
 
 
-![Image](https://media.idownloadblog.com/wp-content/uploads/2019/10/checkra1n.jpg)
-
 
 ## [Download for macOS](https://checkra.in/assets/downloads/macos/4d63520f02d29eb91046ce0bb0a5849ed5599fc4684038954e18bc9d622febdb/checkra1n%20beta%200.9.dmg)
 
@@ -92,3 +90,4 @@ Q: The checkra1n app doesn't open inside the DMG!
 A: Follow the instructions in the DMG file and drag the app to the Applications folder.
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+![Logo](https://media.idownloadblog.com/wp-content/uploads/2019/10/checkra1n.jpg)
