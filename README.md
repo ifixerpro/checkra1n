@@ -90,3 +90,5 @@ A: We need to write a kernel driver to support Windows (which is a very complex 
 
 Q: The checkra1n app doesn't open inside the DMG!
 A: Follow the instructions in the DMG file and drag the app to the Applications folder.
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
