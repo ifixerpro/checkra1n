@@ -4,3 +4,5 @@ description: This is a repository for the checkra1n jailbreak.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+favicon: /favicon.ico
+feedback_email: info@ifixerpro.com
