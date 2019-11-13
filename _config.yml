@@ -3,5 +3,5 @@ logo: /checkra1n.jpg
 description: This is a repository for the checkra1n jailbreak.
 show_downloads: true
 google_analytics:
-remote_theme: benbalter/retlab
+remote_theme: webjeda/Ashwath
 favicon: /favicon.ico
